@@ -1,0 +1,781 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.4f1 (0abb6314276a) revision 703331'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.985; Version 2009; 64bit' Language: 'en' Physical Memory: 6082 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\GAME DEV\2020.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/GAME DEV/GAMES(Self)/2-d Game
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49940
+Successfully changed project path to: E:/GAME DEV/GAMES(Self)/2-d Game
+E:/GAME DEV/GAMES(Self)/2-d Game
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 92.12 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path E:/GAME DEV/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/GAME DEV/GAMES(Self)/2-d Game/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 560X Series (ID=0x67ef)
+    Vendor:   
+    VRAM:     4076 MB
+    Driver:   27.20.21002.112
+Initialize mono
+Mono path[0] = 'E:/GAME DEV/2020.3.4f1/Editor/Data/Managed'
+Mono path[1] = 'E:/GAME DEV/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/GAME DEV/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56880
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/GAME DEV/2020.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: E:/GAME DEV/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001361 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 52.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.196 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001249 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 54.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.679 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.20 seconds
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1960 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.3 MB.
+System memory in use after: 90.3 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2404.
+Total: 3.539700 ms (FindLiveObjects: 0.483700 ms CreateObjectMapping: 0.133700 ms MarkObjects: 2.726900 ms  DeleteObjects: 0.192900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/PlayerController.cs
+  artifactKey: Guid(1dcb1a64ade2d894ead09a9746307ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerController.cs using Guid(1dcb1a64ade2d894ead09a9746307ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9a51a2eabea586cfbd21a64929f0ded') in 0.345518 seconds
+  Import took 0.406844 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001369 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.275 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1953 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.2 MB.
+System memory in use after: 90.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2408.
+Total: 4.022100 ms (FindLiveObjects: 0.509400 ms CreateObjectMapping: 0.156700 ms MarkObjects: 3.174600 ms  DeleteObjects: 0.178400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001367 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.199 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.95 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1953 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.2 MB.
+System memory in use after: 90.2 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2412.
+Total: 3.163400 ms (FindLiveObjects: 0.530000 ms CreateObjectMapping: 0.215600 ms MarkObjects: 2.216300 ms  DeleteObjects: 0.198000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 6926.958106 seconds.
+  path: Assets/explosionsoundslite
+  artifactKey: Guid(d1f109761d133e7419ddbf7547b3dcee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/explosionsoundslite using Guid(d1f109761d133e7419ddbf7547b3dcee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaaee78a01649349b16677e5edee941c') in 0.016491 seconds
+  Import took 0.053178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.931453 seconds.
+  path: Assets/explosionsoundslite/sounds
+  artifactKey: Guid(b80a0f14a9b64b245aa8393bc98774dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/explosionsoundslite/sounds using Guid(b80a0f14a9b64b245aa8393bc98774dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19f02ad8f22c516a77d2eb78edd9b990') in 0.010791 seconds
+  Import took 0.040650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051978 seconds.
+  path: Assets/explosionsoundslite/sounds/bakuhatu01.wav
+  artifactKey: Guid(68b1cd0f24df06d4d93e30fb6f956d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/explosionsoundslite/sounds/bakuhatu01.wav using Guid(68b1cd0f24df06d4d93e30fb6f956d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '524f3c6d61fe0d8c560bd9e216cfb546') in 0.483473 seconds
+  Import took 0.495494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/explosionsoundslite/sounds/bakuhatu11.wav
+  artifactKey: Guid(b024f2d5cfa03e7429a41694469e74d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/explosionsoundslite/sounds/bakuhatu11.wav using Guid(b024f2d5cfa03e7429a41694469e74d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e96d185b2ac4f95b8662e4ae7fac348') in 0.017245 seconds
+  Import took 0.053685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/explosionsoundslite/sounds/bakuhatu87.wav
+  artifactKey: Guid(d588b84bea03f294195edcae6e0fe38f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/explosionsoundslite/sounds/bakuhatu87.wav using Guid(d588b84bea03f294195edcae6e0fe38f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19b7f744e04992bf2780febb260063c2') in 0.020150 seconds
+  Import took 0.024136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/explosionsoundslite/sounds/bakuhatu08.wav
+  artifactKey: Guid(05e969172b1426843a2bed02c899529d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/explosionsoundslite/sounds/bakuhatu08.wav using Guid(05e969172b1426843a2bed02c899529d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c265a5c6616297ec680743b5ab50ee4') in 0.019533 seconds
+  Import took 0.032738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/explosionsoundslite/sounds/bakuhatu22.wav
+  artifactKey: Guid(3f5c01dd1e7789f45bff62bb48e39b4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/explosionsoundslite/sounds/bakuhatu22.wav using Guid(3f5c01dd1e7789f45bff62bb48e39b4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd15a3d74d4eb5a7daf6899e6a4e9d821') in 0.015289 seconds
+  Import took 0.043562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000408 seconds.
+  path: Assets/explosionsoundslite/sounds/bakuhatu02.wav
+  artifactKey: Guid(c7e572b255e311b479005985ed7f4ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/explosionsoundslite/sounds/bakuhatu02.wav using Guid(c7e572b255e311b479005985ed7f4ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a27d34567195bdbe510308f39a70f03d') in 0.016430 seconds
+  Import took 0.020870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/explosionsoundslite/sounds/bakuhatu07.wav
+  artifactKey: Guid(6a81ca39e09d6664f98792766a5ffb74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/explosionsoundslite/sounds/bakuhatu07.wav using Guid(6a81ca39e09d6664f98792766a5ffb74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f455165a579c79ef40385073338581dc') in 0.018648 seconds
+  Import took 0.029239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/explosionsoundslite/sounds/bakuhatu75.wav
+  artifactKey: Guid(19397eac57951a8429b00b523beec885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/explosionsoundslite/sounds/bakuhatu75.wav using Guid(19397eac57951a8429b00b523beec885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '119d4c9dc73a6fa8d596c56fd1171201') in 0.033315 seconds
+  Import took 0.048879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/explosionsoundslite/sounds/bakuhatu29.wav
+  artifactKey: Guid(623dc26265f4acc4b9df2363cd2fd30f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/explosionsoundslite/sounds/bakuhatu29.wav using Guid(623dc26265f4acc4b9df2363cd2fd30f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f740cdfcfaf4e6ef501023f0c3cc2bb') in 0.019731 seconds
+  Import took 0.036747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/explosionsoundslite/sounds/bakuhatu68.wav
+  artifactKey: Guid(f30f5cb6ad803914688cdd4e88b30ba1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/explosionsoundslite/sounds/bakuhatu68.wav using Guid(f30f5cb6ad803914688cdd4e88b30ba1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '681f1209d640ffdc10ffa80444eda57b') in 0.015086 seconds
+  Import took 0.022556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/explosionsoundslite/sounds/bakuhatu83.wav
+  artifactKey: Guid(f77b773e8e8404c45a69e7050a518728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/explosionsoundslite/sounds/bakuhatu83.wav using Guid(f77b773e8e8404c45a69e7050a518728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22d715c5caee199ef1471962410a8e71') in 0.016238 seconds
+  Import took 0.039741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/explosionsoundslite/sounds/bakuhatu151.wav
+  artifactKey: Guid(b18d5d807743f4b4aa55eac638760676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/explosionsoundslite/sounds/bakuhatu151.wav using Guid(b18d5d807743f4b4aa55eac638760676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b206396f3b72baffb1fb3fe6837ec12') in 0.014342 seconds
+  Import took 0.018410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/explosionsoundslite/sounds/bakuhatu39.wav
+  artifactKey: Guid(251f0188da427c148b02b0ea26e5bbda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/explosionsoundslite/sounds/bakuhatu39.wav using Guid(251f0188da427c148b02b0ea26e5bbda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bc63a4ff5ca9bf9344596826d90754c') in 0.016385 seconds
+  Import took 0.030000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/explosionsoundslite/sounds/bakuhatu64.wav
+  artifactKey: Guid(137ed6d440a575f46b9edcfa2f3f4445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/explosionsoundslite/sounds/bakuhatu64.wav using Guid(137ed6d440a575f46b9edcfa2f3f4445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2d570dac7fe4bdef2703d3acecd7e03') in 0.016151 seconds
+  Import took 0.020155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/explosionsoundslite/sounds/bakuhatu97.wav
+  artifactKey: Guid(5a49ae6914d919345bd222e7753ab883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/explosionsoundslite/sounds/bakuhatu97.wav using Guid(5a49ae6914d919345bd222e7753ab883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc83c20aea8d1cf5c3e5f1b6cd3deb24') in 0.016301 seconds
+  Import took 0.024052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/explosionsoundslite/sounds/bakuhatu26.wav
+  artifactKey: Guid(cb5cf0f59610f16478fbde191116e6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/explosionsoundslite/sounds/bakuhatu26.wav using Guid(cb5cf0f59610f16478fbde191116e6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5393e72e207fbe346344b2ed28f72b9c') in 0.016963 seconds
+  Import took 0.025424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/explosionsoundslite/sounds/bakuhatu145.wav
+  artifactKey: Guid(0d05766ca32b4134e8c47af589cdac84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/explosionsoundslite/sounds/bakuhatu145.wav using Guid(0d05766ca32b4134e8c47af589cdac84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6305603a1efc1a9ebfff2573e1f88d9c') in 0.018909 seconds
+  Import took 0.023582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/explosionsoundslite/sounds/bakuhatu13.wav
+  artifactKey: Guid(678ce39e67d76d040a732f601bcb0571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/explosionsoundslite/sounds/bakuhatu13.wav using Guid(678ce39e67d76d040a732f601bcb0571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3b7d91e2c124f52a6638c3872310653') in 0.015694 seconds
+  Import took 0.020795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/explosionsoundslite/sounds/bakuhatu103.wav
+  artifactKey: Guid(4411f78d24afab14cb968f2513b8f910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/explosionsoundslite/sounds/bakuhatu103.wav using Guid(4411f78d24afab14cb968f2513b8f910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f897167c65666085dc67d3d92b193768') in 0.016864 seconds
+  Import took 0.031130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/explosionsoundslite/sounds/bakuhatu131.wav
+  artifactKey: Guid(8f0637183efbf1f4bb2e32233823e719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/explosionsoundslite/sounds/bakuhatu131.wav using Guid(8f0637183efbf1f4bb2e32233823e719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22e97f4af9502d3de2b9340c11d321ed') in 0.017234 seconds
+  Import took 0.022113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/explosionsoundslite/sounds/bakuhatu120.wav
+  artifactKey: Guid(243d0c84ae9991648923fdfcaf23e5ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/explosionsoundslite/sounds/bakuhatu120.wav using Guid(243d0c84ae9991648923fdfcaf23e5ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e0bd60bb147d94dd031468085ced2c3') in 0.017745 seconds
+  Import took 0.022003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/explosionsoundslite/sounds/bakuhatu74.wav
+  artifactKey: Guid(f91abed3a538a2a4dbc1675a85313ceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/explosionsoundslite/sounds/bakuhatu74.wav using Guid(f91abed3a538a2a4dbc1675a85313ceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '312c692d3bc23aed5c4975c5318f4516') in 0.022137 seconds
+  Import took 0.027234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/explosionsoundslite/sounds/bakuhatu57.wav
+  artifactKey: Guid(80ca4773e2027024aa5386b4278b65aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/explosionsoundslite/sounds/bakuhatu57.wav using Guid(80ca4773e2027024aa5386b4278b65aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10db601b7a6e69694016a9e50fa533e4') in 0.016602 seconds
+  Import took 0.021246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/explosionsoundslite/sounds/bakuhatu27.wav
+  artifactKey: Guid(e93d5cbd4a12fe540a2b627c99c00b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/explosionsoundslite/sounds/bakuhatu27.wav using Guid(e93d5cbd4a12fe540a2b627c99c00b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd88844bfdf7ab715146816cad1bde57a') in 0.019347 seconds
+  Import took 0.024157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/explosionsoundslite/sounds/bakuhatu71.wav
+  artifactKey: Guid(63dc7fbc87a458145825df8e886ee930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/explosionsoundslite/sounds/bakuhatu71.wav using Guid(63dc7fbc87a458145825df8e886ee930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '103b3d0ea7f948d3647646b0df8f4a36') in 0.017706 seconds
+  Import took 0.022184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/explosionsoundslite/sounds/bakuhatu124.wav
+  artifactKey: Guid(2dad387ce2d474e4bbd220a0db603ec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/explosionsoundslite/sounds/bakuhatu124.wav using Guid(2dad387ce2d474e4bbd220a0db603ec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e61b62e292f073c14124ce80d829bb8') in 0.016511 seconds
+  Import took 0.021144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/explosionsoundslite/sounds/bakuhatu116.wav
+  artifactKey: Guid(25b1999d16ce37b4f8fea7dad87fa203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/explosionsoundslite/sounds/bakuhatu116.wav using Guid(25b1999d16ce37b4f8fea7dad87fa203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '345d93c3f8d7f2318dbccb3ad404c343') in 0.014230 seconds
+  Import took 0.019577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/explosionsoundslite/sounds/bakuhatu102.wav
+  artifactKey: Guid(b738c6fdb793b404da734c38a7877034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/explosionsoundslite/sounds/bakuhatu102.wav using Guid(b738c6fdb793b404da734c38a7877034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b3fcc4487a368c306bb6cbc51e5e393') in 0.015378 seconds
+  Import took 0.019639 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001033 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.195 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1953 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.3 MB.
+System memory in use after: 93.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2425.
+Total: 3.074300 ms (FindLiveObjects: 0.421900 ms CreateObjectMapping: 0.093800 ms MarkObjects: 2.418200 ms  DeleteObjects: 0.138400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001063 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.204 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1953 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.3 MB.
+System memory in use after: 93.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2429.
+Total: 3.111600 ms (FindLiveObjects: 0.443300 ms CreateObjectMapping: 0.079100 ms MarkObjects: 2.432000 ms  DeleteObjects: 0.155300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001598 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.126 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1953 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.4 MB.
+System memory in use after: 93.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2433.
+Total: 7.129200 ms (FindLiveObjects: 0.766500 ms CreateObjectMapping: 0.685400 ms MarkObjects: 5.401200 ms  DeleteObjects: 0.273200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001413 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.140 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1953 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.4 MB.
+System memory in use after: 93.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2437.
+Total: 5.231300 ms (FindLiveObjects: 0.462500 ms CreateObjectMapping: 0.140700 ms MarkObjects: 4.413400 ms  DeleteObjects: 0.211500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001352 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.132 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1953 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.4 MB.
+System memory in use after: 93.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2441.
+Total: 3.728300 ms (FindLiveObjects: 0.689200 ms CreateObjectMapping: 0.361800 ms MarkObjects: 2.511100 ms  DeleteObjects: 0.164300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 826.102539 seconds.
+  path: Assets/Prefabs/Player.prefab
+  artifactKey: Guid(a0c1ace15a2dbf44eba59a7976bec379) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player.prefab using Guid(a0c1ace15a2dbf44eba59a7976bec379) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef3a6fb488e9b904aafbc751f6680b2e') in 0.372966 seconds
+  Import took 0.397077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.040689 seconds.
+  path: Assets/Prefabs/Collectable.prefab
+  artifactKey: Guid(e3d472c032187074f864e38cedb02e04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Collectable.prefab using Guid(e3d472c032187074f864e38cedb02e04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc089081d61080b6bc9d555a6a89dc68') in 0.056745 seconds
+  Import took 0.080576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.680312 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow
+  artifactKey: Guid(26aa9f701991915429aada14eee6ca7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow using Guid(26aa9f701991915429aada14eee6ca7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac4ea3de6ec0f89b060410da90706bda') in 0.041255 seconds
+  Import took 0.059175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007218 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 1-Audio.wav
+  artifactKey: Guid(06c956466747e764aa6d69fbee1b0935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 1-Audio.wav using Guid(06c956466747e764aa6d69fbee1b0935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '948d64dbcf2970dc44524806ea18dff7') in 0.050659 seconds
+  Import took 0.066937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 6-Audio.wav
+  artifactKey: Guid(c4ef324bf90bc9b45878c7e5acf7e4a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 6-Audio.wav using Guid(c4ef324bf90bc9b45878c7e5acf7e4a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7d7f034c76cedfd874010cf9c2e085f') in 0.050149 seconds
+  Import took 0.091706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 11-Audio.wav
+  artifactKey: Guid(9fbc8e15df2ca7842affcbcfde0ab937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 11-Audio.wav using Guid(9fbc8e15df2ca7842affcbcfde0ab937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dae220a338fb518ad95591fc6600db4') in 0.061693 seconds
+  Import took 0.092464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 22-Audio.wav
+  artifactKey: Guid(d0da27383b628e04799479cdd77eda95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 22-Audio.wav using Guid(d0da27383b628e04799479cdd77eda95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '926ba32dffd1961864a045eac15aa7bd') in 0.068050 seconds
+  Import took 0.073253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 16-Audio.wav
+  artifactKey: Guid(b6ffe1fb51eac3e419f6a7f43694cb6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 16-Audio.wav using Guid(b6ffe1fb51eac3e419f6a7f43694cb6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa76cce6ffc14fc7395df875ce46fa93') in 0.082949 seconds
+  Import took 0.102647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 29-Audio.wav
+  artifactKey: Guid(176389e2310462040be2f30f80316207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 29-Audio.wav using Guid(176389e2310462040be2f30f80316207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '272d99889e94832918f11af6cfb27097') in 0.055966 seconds
+  Import took 0.106079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 8-Audio.wav
+  artifactKey: Guid(706fe9682ff24844e9b6f71d56f9b9e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 8-Audio.wav using Guid(706fe9682ff24844e9b6f71d56f9b9e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae32ab298d0d67a58c87d5c08e75ab71') in 0.070787 seconds
+  Import took 0.075089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 27-Audio.wav
+  artifactKey: Guid(2ebec63f97bff5b4297dfca4f605c672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 27-Audio.wav using Guid(2ebec63f97bff5b4297dfca4f605c672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03197b5889a339550b1251ef1669d38e') in 0.048924 seconds
+  Import took 0.080042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 19-Audio.wav
+  artifactKey: Guid(5c59b22cb633543429b5029c416d4a3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 19-Audio.wav using Guid(5c59b22cb633543429b5029c416d4a3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c127ff7100e35efde14ae8350f1a18d') in 0.067232 seconds
+  Import took 0.071403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 10-Audio.wav
+  artifactKey: Guid(071e5d5bdeb478746927080a2b18c5cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 10-Audio.wav using Guid(071e5d5bdeb478746927080a2b18c5cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9023f40c0884e0b828980ded1d9568dd') in 0.071479 seconds
+  Import took 0.075733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 25-Audio.wav
+  artifactKey: Guid(d982ed62eb524e042814e3f5e6c45365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 25-Audio.wav using Guid(d982ed62eb524e042814e3f5e6c45365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9742fea573eb6c0487084270d645c5d9') in 0.040024 seconds
+  Import took 0.064599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000557 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 30-Audio.wav
+  artifactKey: Guid(27eb110229c1c2940b9e1cf4c05d2d41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 30-Audio.wav using Guid(27eb110229c1c2940b9e1cf4c05d2d41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f778466f712e9100f28ec92e8eabb93f') in 0.045834 seconds
+  Import took 0.078461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 9-Audio.wav
+  artifactKey: Guid(2227cea3c6513a8418c2e66b6e823f6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 9-Audio.wav using Guid(2227cea3c6513a8418c2e66b6e823f6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4c1e356305d7877233ad1b9f2b8b73b') in 0.059680 seconds
+  Import took 0.063873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 23-Audio.wav
+  artifactKey: Guid(64b1dbeff75967b4bb6a10aa2bd3a1be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 23-Audio.wav using Guid(64b1dbeff75967b4bb6a10aa2bd3a1be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d04c4807b21aed1298888069796f0d2') in 0.051903 seconds
+  Import took 0.065060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 1-Audio.wav
+  artifactKey: Guid(06c956466747e764aa6d69fbee1b0935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 1-Audio.wav using Guid(06c956466747e764aa6d69fbee1b0935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '948d64dbcf2970dc44524806ea18dff7') in 0.009896 seconds
+  Import took 0.014013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 12-Audio.wav
+  artifactKey: Guid(30d86af66b44dea418980eaeec35dcf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 12-Audio.wav using Guid(30d86af66b44dea418980eaeec35dcf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '626f0e031b0f23c9ed636bfeb8f90c17') in 0.057524 seconds
+  Import took 0.062029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 14-Audio.wav
+  artifactKey: Guid(d42e78e130487f347b81e8233d4072a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 14-Audio.wav using Guid(d42e78e130487f347b81e8233d4072a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a77ccd48055e50e0dc0094d67004a28') in 0.027758 seconds
+  Import took 0.038358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000483 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 7-Audio.wav
+  artifactKey: Guid(4477d53a3a60ea643b87fe82504aee67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 7-Audio.wav using Guid(4477d53a3a60ea643b87fe82504aee67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfaa2ee575d1e84a54584e1f0762cefe') in 0.050017 seconds
+  Import took 0.054780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 20-Audio.wav
+  artifactKey: Guid(0910c40703d2dcc4c842236bd4401aeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 20-Audio.wav using Guid(0910c40703d2dcc4c842236bd4401aeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c303e1ee1092a5d137321984bf075ba7') in 0.042020 seconds
+  Import took 0.046333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 28-Audio.wav
+  artifactKey: Guid(3e64e1c9f6856814c9beeedddba28085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 28-Audio.wav using Guid(3e64e1c9f6856814c9beeedddba28085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34114a5d812a07763b1d3967af27edbe') in 0.033576 seconds
+  Import took 0.038304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 21-Audio.wav
+  artifactKey: Guid(793ce870ec4e6d84fbd6662d8b662c94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 21-Audio.wav using Guid(793ce870ec4e6d84fbd6662d8b662c94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f359927915e19130bfae05daa09ea83') in 0.043966 seconds
+  Import took 0.063191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 13-Audio.wav
+  artifactKey: Guid(214703d4bec78a34f980ea6353c598f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 13-Audio.wav using Guid(214703d4bec78a34f980ea6353c598f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5a969f6d30893fde0ee74d1dc9d4a5d') in 0.057637 seconds
+  Import took 0.061613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 24-Audio.wav
+  artifactKey: Guid(9441aac338d9a2e4fb8af849b5fc0fe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 24-Audio.wav using Guid(9441aac338d9a2e4fb8af849b5fc0fe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ae9cb231f0142cf2ee516a51d77ab9e') in 0.080979 seconds
+  Import took 0.102452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 2-Audio.wav
+  artifactKey: Guid(23eec9c94cd24a54087125f67f12f5a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 2-Audio.wav using Guid(23eec9c94cd24a54087125f67f12f5a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de64059c966d72ae509675dbb533a7fb') in 0.073549 seconds
+  Import took 0.077836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 5-Audio.wav
+  artifactKey: Guid(152baa2c7a679d547883e6585674da7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 5-Audio.wav using Guid(152baa2c7a679d547883e6585674da7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e6589ac7e0c66b5858e3f6e30ae51fd') in 0.037617 seconds
+  Import took 0.042138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 4-Audio.wav
+  artifactKey: Guid(69ce65de178f68c409ed53debc0c8148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 4-Audio.wav using Guid(69ce65de178f68c409ed53debc0c8148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '637fc47c69113c0f06a43a5cd11c5929') in 0.028190 seconds
+  Import took 0.033140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 26-Audio.wav
+  artifactKey: Guid(485d5d916988a1849ab14a7d44a79cf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 26-Audio.wav using Guid(485d5d916988a1849ab14a7d44a79cf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eabea499a2b93d3593a3c7d52c7165c2') in 0.075686 seconds
+  Import took 0.080764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 18-Audio.wav
+  artifactKey: Guid(4acc9d4b8ecfa8d4e9fdb67c95d93ca7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 18-Audio.wav using Guid(4acc9d4b8ecfa8d4e9fdb67c95d93ca7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '144233a5db43b2e6b785e2892527353d') in 0.027845 seconds
+  Import took 0.040190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 3-Audio.wav
+  artifactKey: Guid(28864cb8aba39f742b2e52c3a5a4b113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 3-Audio.wav using Guid(28864cb8aba39f742b2e52c3a5a4b113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52658663fea51639ce3ada23f70843ef') in 0.046682 seconds
+  Import took 0.051021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 17-Audio.wav
+  artifactKey: Guid(9418997ac6c37094e8a0076e4fb92864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 17-Audio.wav using Guid(9418997ac6c37094e8a0076e4fb92864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ae3aa7ce09ba4e7217e8d8d603385aa') in 0.029032 seconds
+  Import took 0.032714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 15-Audio.wav
+  artifactKey: Guid(16b97fcb6c0d1e44aa05eb14bfd08c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Footstep(Snow and Grass)/Stepssingle sound/snow/Snow1 15-Audio.wav using Guid(16b97fcb6c0d1e44aa05eb14bfd08c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15baa1db8f1103971e2a9535a22fc0b1') in 0.029001 seconds
+  Import took 0.033420 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001276 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.137 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1953 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.5 MB.
+System memory in use after: 93.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2446.
+Total: 4.143000 ms (FindLiveObjects: 0.453100 ms CreateObjectMapping: 0.127400 ms MarkObjects: 3.392000 ms  DeleteObjects: 0.168100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000995 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.066 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1953 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.5 MB.
+System memory in use after: 93.5 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2450.
+Total: 3.527900 ms (FindLiveObjects: 0.541900 ms CreateObjectMapping: 0.326200 ms MarkObjects: 2.453000 ms  DeleteObjects: 0.204600 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
